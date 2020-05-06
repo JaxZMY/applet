@@ -1,0 +1,14 @@
+{
+  "name": "6s_applet",
+  "version": "1.0.0",
+  "description": "6s管理系统小程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JaxZMY",
+  "license": "ISC",
+  "dependencies": {
+    "vant-weapp": "^0.5.28"
+  }
+}
